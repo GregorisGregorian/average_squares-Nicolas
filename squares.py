@@ -52,7 +52,7 @@ def convert_numbers(list_of_strings):
 
 
 if __name__ == "__main__":
-    numbers_strings = ["2","2","4"]
+    numbers_strings = ["1","2","4"]
     weight_strings = ["1","1","1"]        
     
     numbers = convert_numbers(numbers_strings)
